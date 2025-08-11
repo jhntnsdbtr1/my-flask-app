@@ -121,7 +121,7 @@ fastrlock==0.8.3
 ffmpy==0.6.1
 filelock==3.18.0
 firebase-admin==6.9.0
-Flask==3.1.1
+Flask==2.2.3
 flatbuffers==25.2.10
 flax==0.10.6
 folium==0.20.0
@@ -184,7 +184,7 @@ grpcio-status==1.71.2
 grpclib==0.4.8
 gspread==6.2.1
 gspread-dataframe==4.0.0
-gunicorn
+gunicorn==20.1.0
 gym==0.25.2
 gym-notices==0.1.0
 gymnasium==1.2.0
@@ -339,7 +339,7 @@ notebook_shim==0.2.4
 numba==0.60.0
 numba-cuda==0.11.0
 numexpr==2.11.0
-numpy==2.0.2
+numpy==1.24.2
 nvidia-cublas-cu12==12.5.3.2
 nvidia-cuda-cupti-cu12==12.5.82
 nvidia-cuda-nvcc-cu12==12.5.82
@@ -372,7 +372,7 @@ orbax-checkpoint==0.11.20
 orjson==3.11.1
 osqp==1.0.4
 packaging==25.0
-pandas==2.2.2
+pandas==1.5.3
 pandas-datareader==0.10.0
 pandas-gbq==0.29.2
 pandas-stubs==2.2.2.240909
@@ -486,7 +486,7 @@ ruff==0.12.7
 safehttpx==0.1.6
 safetensors==0.6.1
 scikit-image==0.25.2
-scikit-learn==1.6.1
+scikit-learn==1.2.2
 scipy==1.16.1
 scooby==0.10.1
 scs==3.2.7.post2
